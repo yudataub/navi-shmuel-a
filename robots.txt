@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yudataub.github.io/navi-shmuel-a/sitemap.xml
+Sitemap: https://www.kol-toda.co.il/neviim/shmuel-a/sitemap.xml
